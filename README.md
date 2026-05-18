@@ -32,7 +32,8 @@ To ensure a robust analysis, I performed the following technical steps:
 
 ## Interactive Dashboard Preview
 ![dashboard](visauls/dashbooard.png)
-Figure 1: Global Executive Performance Summary
+###Figure 1: Global Executive Performance Summary
+
 Note: I have designed this dashboard to allow for real-time filtering by Experience Level and Client Region, providing an interactive experience for stakeholders.
 
 #### The Revenue Drivers
