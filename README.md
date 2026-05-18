@@ -31,7 +31,7 @@ To ensure a robust analysis, I performed the following technical steps:
 - Visualisation Strategy: I utilised a Dual-Axis approach to create custom Lollipop and providing a more sophisticated user experience than standard bar graphs.
 
 ## Interactive Dashboard Preview
-![dashboard](C:\Users\hp\Desktop\FreelanceGIG_Analysis\visauls\dashbooard.png)
+![dashboard](visauls/dashbooard.png)
 Figure 1: Global Executive Performance Summary
 Note: I have designed this dashboard to allow for real-time filtering by Experience Level and Client Region, providing an interactive experience for stakeholders.
 
@@ -56,7 +56,7 @@ Utilising a pie Chart to analyse compensation tiers, I uncovered a significant m
 To understand operational reliability, I compared success rates against total job volume:
 
 - Reliability Leader: I found that Freelancer is the most reliable platform in the ecosystem, achieving a 75.88% success rate.
-- Market Scale: Using a Packed Bubble Chart [Figure 2], I visualised the sheer scale of the landscape. Upwork (57K jobs) and Fiverr (56K jobs) lead in transaction volume, proving they are the primary engines for high-frequency tasks.
+- Market Scale: I visualised the sheer scale of the landscape. Upwork (57K jobs) and Fiverr (56K jobs) lead in transaction volume, proving they are the primary engines for high-frequency tasks.
 - Customer Loyalty: My analysis of the Rehire Rate bar chart identified Customer Support as the hero for retention, with a 45.93% rehire rate.
 
 ## Strategic Recommendations & Technical Appendix
