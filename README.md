@@ -74,7 +74,7 @@ Based on the data-driven insights from my 2026 analysis, I propose the following
 - Analysis: ROI Calculation, Retention Analysis, Trend Identification.
 - Documentation: Technical Report Writing, GitHub Version Control.
 
-Dashboard Link : https://public.tableau.com/app/profile/afeez.bisiriyu/viz/capstoneprpojectfreelanceGIG/Dashboard1?publish=yes
+Dashboard Link : https://public.tableau.com/views/FreelanceGIGDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
 
