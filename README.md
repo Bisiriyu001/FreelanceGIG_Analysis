@@ -1,7 +1,7 @@
 # FreelanceGIG Market Performance
 
 ## Executive Summary
-I have developed this comprehensive analytical suite to evaluate the operational performance and financial scalability of the FreelanceGIG ecosystem. By analyzing a dataset of 273,000 completed jobs, I have identified a highly efficient business model that maintains a global 4.00/5.00 client rating.
+This project developed a comprehensive analytical suite to evaluate the operational performance and financial scalability of the FreelanceGIG ecosystem. By analyzing a dataset of 273,000 completed jobs, I have identified a highly efficient business model that maintains a global 4.00/5.00 client rating.
 
 The primary focus of my analysis was to track how a $450,000 marketing investment successfully scaled into $10,000,000 in total revenue.
 
@@ -13,7 +13,7 @@ Key Performance Indicators (KPIs):
 - Average Project Duration: 44 Days
 
 ## Problem Statement & Methodology
-In this section, I explain the "Why" and the "How" of the project. This is crucial for showing that I didn't just make charts, but that I solved a specific business problem using technical skills.
+This section explain the "Why" and the "How" of the project. This is crucial for showing that I didn't just make charts, but that I solved a specific business problem using technical skills.
 
 ### Project Objectives & Problem Statement
 The goal of this project was to identify the drivers of profitability and quality within the global freelance market. I set out to answer three critical business questions:
