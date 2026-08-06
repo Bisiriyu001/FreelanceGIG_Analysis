@@ -1,19 +1,43 @@
-# FreelanceGIG Market Performance
+# FreelanceGIG Ecosystem Analysis
 
-## Executive Summary
-This project developed a comprehensive analytical suite to evaluate the operational performance and financial scalability of the FreelanceGIG ecosystem. By analyzing a dataset of 273,000 completed jobs, I have identified a highly efficient business model that maintains a global 4.00/5.00 client rating.
+## Leveraging Tableau to evaluate operational performance, talent pricing dynamics, and market scalability across a global freelance platform.
 
-The primary focus of my analysis was to track how a $450,000 marketing investment successfully scaled into $10,000,000 in total revenue.
+Disclaimer ⚠️: All datasets, reports, and visualisations do not contain real proprietary, confidential, or sensitive information from any company, institution, or individual. All data represents dummy/mock transactional logs designed to demonstrate my capabilities in using Tableau Desktop to build advanced business intelligence analytics for the freelance and gig economy sector.
 
-Key Performance Indicators (KPIs):
-- Total Revenue: $10,000,000
-- Total Jobs Completed: 273,000
-- Total Market Spend : $450,000
-- Average Client Rating: 4.00/5.00
-- Average Project Duration: 44 Days
+## INTRODUCTION 
 
-## Problem Statement & Methodology
-This section explain the "Why" and the "How" of the project. This is crucial for showing that I didn't just make charts, but that I solved a specific business problem using technical skills.
+This project leverages data analytics and transactional history to evaluate operational health and profitability drivers for FreelanceGIG. By analyzing a global dataset encompassing 273,000 completed jobs, I built an interactive analytical suite to map out how a $450,000 marketing investment successfully converted into $10,000,000 in total platform revenue while maintaining an overall 4.00/5.00 client satisfaction rating.
+
+Through Tableau Desktop, this project transforms complex transactional data into actionable strategic insights, identifying the exact talent tiers, service categories, and marketplace platforms that drive user retention and revenue scaling.
+
+## PROBLEM STATEMENT
+
+The global freelance marketplace is highly dynamic and sensitive to fluctuating talent rates, varying service quality, and platform-specific conversion success. Traditional high-level reporting often fails to capture the subtle trade-offs between volume, price, and client satisfaction.
+
+The core challenge lies in pinpointing:
+
+- Which service categories drive raw revenue versus those that deliver peak quality.
+- How talent experience levels directly impact market pricing and client demand.
+- Which hosting platforms yield the highest completion reliability and user retention.
+
+## AIM OF THE PROJECT
+
+The primary objectives of this analytical audit are to:
+
+- Analyze transactional performance logs to uncover underlying revenue patterns and client satisfaction trends.
+- Develop an interactive executive dashboard in Tableau with dynamic filtering capabilities for Region and Experience Level.
+- Evaluate the relationship between hourly rates, freelancer experience tiers, and market demand.
+- Assess platform reliability across key competitors including Upwork, Fiverr, Toptal, Freelancer, and PeoplePerHour.
+- Provide data-driven strategic recommendations to optimize platform marketing spend and client retention.
+
+## SKILLS & CONCEPTS DEMONSTRATED
+
+- Business Intelligence: Executive-level KPI tracking, ROI evaluation, and market performance benchmarking.
+- Data Architecture & Preparation: Primary key joins, field standardization, and missing value filtering.
+- Advanced Tableau Development: Custom dual-axis donut charts, lollipop visualisations, targeted Top-5 bar charts, and container-based dashboard formatting.
+- Strategic Communication: Translating complex transactional metrics into clear executive briefings.
+
+.................
 
 ### Project Objectives & Problem Statement
 The goal of this project was to identify the drivers of profitability and quality within the global freelance market. I set out to answer three critical business questions:
