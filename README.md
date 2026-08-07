@@ -53,7 +53,7 @@ The analytical suite incorporates the following visual structures:
 - Executive KPIs: Top-level BANs (Big Angry Numbers) tracking Total Revenue, Market Spend, Total Jobs, Client Rating, and Average Project Duration.
 - Top-5 Bar Charts: Highlighting top-performing categories by revenue generation and rehire potential.
 - Custom Lollipop Chart: Tracking quality benchmarks across job categories with high visual precision.
-- Dual-Axis Donut Chart: Mapping hourly rate distribution across freelancer experience tiers.
+- Bar Chart: Mapping hourly rate distribution across freelancer experience tiers.
 - Horizontal Performance Bars: Visualising average success rates and job volume across competing platforms.
 
 ## DATA ANALYSIS
@@ -67,12 +67,18 @@ The top-level Key Performance Indicators provide an immediate health check of th
 - Average Client Rating: 4.00 / 5.00
 - Average Project Duration: 44 Days
 
+![text2](visauls/kp.png)
+
 ### Category Performance & Quality Analysis
 ### Revenue Leaders (Top 5 Earning by Category)
 My analysis identifies Graphic Design as the primary financial driver of the ecosystem, generating $1,348,749 in revenue. Technical and operational support roles follow closely behind, led by App Development ($1,274,556), Customer Support ($1,241,257), Web Development ($1,231,418), and Data Entry ($1,197,235).
 
+![text2](visauls/EARNINGS.png)
+
 ### Quality Benchmarks (Top 5 Average Client Rating)
 Using a lollipop visualization to evaluate client satisfaction, Web Development emerged as the quality benchmark with an average rating of 4.08 / 5.00. The remaining top categories, Digital Marketing, Content Writing, and Data Entry hold a consistent 4.01 rating, proving tight quality standardization across diverse service lines.
+
+![text2](visauls/CLIENTRATING.png)
 
 ### Talent Pricing & Platform Dynamics
 ### Hourly Rate by Experience Level (Bar Chart)
