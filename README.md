@@ -89,6 +89,8 @@ This indicates that buyers place a strong premium on mid-tier agility and cost e
 - Total Volume: Upwork (57,000 jobs) and Fiverr (56,000 jobs) represent the highest transaction channels on the platform.
 - Customer Retention: Customer Support acts as the primary retention anchor, leading all categories with a 45.93% rehire rate.
 
+![text2](visauls/RATE.png)
+
 ## Dashboard Preview
 ![dashboard](visauls/dashbooard.png)
 
