@@ -1,7 +1,7 @@
 # FreelanceGIG Ecosystem Analysis
 
 ## Leveraging Tableau to evaluate operational performance, talent pricing dynamics, and market scalability across a global freelance platform.
-
+![text](visauls/FREELANCEFRONTIMAGE.png)
 Disclaimer ⚠️: All datasets, reports, and visualisations do not contain real proprietary, confidential, or sensitive information from any company, institution, or individual. All data represents dummy/mock transactional logs designed to demonstrate my capabilities in using Tableau Desktop to build advanced business intelligence analytics for the freelance and gig economy sector.
 
 ## INTRODUCTION 
