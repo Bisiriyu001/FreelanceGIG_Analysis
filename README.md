@@ -75,14 +75,12 @@ Using a lollipop visualization to evaluate client satisfaction, Web Development 
 ### Talent Pricing & Platform Dynamics
 ### Hourly Rate by Experience Level (Donut Chart)
 By analyzing compensation across experience tiers, I discovered an interesting market trend:
-
 - Intermediate Freelancers command the highest market average at $53.46 / hr.
 - Experts follow closely at $51.65 / hr.
 - Beginners maintain a competitive baseline at $49.97 / hr.
-
 This indicates that buyers place a strong premium on mid-tier agility and cost efficiency over traditional seniority.
 
-Platform Reliability & Volume
+### Platform Reliability & Volume
 - Average Success Rate: Freelancer leads the ecosystem in transaction reliability with a 75.88% success rate, followed by Toptal (75.65%) and Fiverr (75.08%).
 - Total Volume: Upwork (57,000 jobs) and Fiverr (56,000 jobs) represent the highest transaction channels on the platform.
 - Customer Retention: Customer Support acts as the primary retention anchor, leading all categories with a 45.93% rehire rate.
@@ -97,6 +95,8 @@ Based on the insights derived from this analysis, I propose the following strate
 - Promote Web Development Quality: Leverage the 4.08 client rating in Web Development as a primary case study in marketing assets to showcase service excellence.
 - Incentivise Customer Support Retention: Build tailored loyalty and subscription options for Customer Support clients to capitalise on the category's high 45.93% rehire rate.
 - Optimize High-Volume Channels: Maintain infrastructure investment on high-volume partners (Upwork and Fiverr) while adopting operational best practices from Freelancer to lift global completion rates.
+
+-------
 
 Dashboard Link : https://public.tableau.com/views/FreelanceGIGDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
