@@ -72,15 +72,17 @@ The top-level Key Performance Indicators provide an immediate health check of th
 My analysis identifies Graphic Design as the primary financial driver of the ecosystem, generating $1,348,749 in revenue. Technical and operational support roles follow closely behind, led by App Development ($1,274,556), Customer Support ($1,241,257), Web Development ($1,231,418), and Data Entry ($1,197,235).
 
 ### Quality Benchmarks (Top 5 Average Client Rating)
-Using a lollipop visualization to evaluate client satisfaction, Web Development emerged as the quality benchmark with an average rating of 4.08 / 5.00. The remaining top categories—Digital Marketing, Content Writing, and Data Entry hold a consistent 4.01 rating, proving tight quality standardization across diverse service lines.
+Using a lollipop visualization to evaluate client satisfaction, Web Development emerged as the quality benchmark with an average rating of 4.08 / 5.00. The remaining top categories, Digital Marketing, Content Writing, and Data Entry hold a consistent 4.01 rating, proving tight quality standardization across diverse service lines.
 
 ### Talent Pricing & Platform Dynamics
-### Hourly Rate by Experience Level (Donut Chart)
+### Hourly Rate by Experience Level (Bar Chart)
 By analyzing compensation across experience tiers, I discovered an interesting market trend:
 - Intermediate Freelancers command the highest market average at $53.46 / hr.
 - Experts follow closely at $51.65 / hr.
 - Beginners maintain a competitive baseline at $49.97 / hr.
 This indicates that buyers place a strong premium on mid-tier agility and cost efficiency over traditional seniority.
+
+![text2](visauls/HOURLYRATE.png)
 
 ### Platform Reliability & Volume
 - Average Success Rate: Freelancer leads the ecosystem in transaction reliability with a 75.88% success rate, followed by Toptal (75.65%) and Fiverr (75.08%).
