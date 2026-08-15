@@ -6,7 +6,7 @@ Disclaimer ⚠️: All datasets, reports, and visualisations do not contain real
 
 ## INTRODUCTION 
 
-This project leverages data analytics and transactional history to evaluate operational health and profitability drivers for FreelanceGIG. By analyzing a global dataset encompassing 273,000 completed jobs, I built an interactive analytical suite to map out how a $450,000 marketing investment successfully converted into $10,000,000 in total platform revenue while maintaining an overall 4.00/5.00 client satisfaction rating.
+This project leverages data analytics and transactional history to evaluate operational health and profitability drivers for FreelanceGIG. By analyzing a global dataset encompassing 273,000 completed jobs, built an interactive analytical suite to map out how a $450,000 marketing investment successfully converted into $10,000,000 in total platform revenue while maintaining an overall 4.00/5.00 client satisfaction rating.
 
 Through Tableau Desktop, this project transforms complex transactional data into actionable strategic insights, identifying the exact talent tiers, service categories, and marketplace platforms that drive user retention and revenue scaling.
 
